@@ -5,7 +5,7 @@ import org.apache.spark.{SparkConf, SparkContext}
 
 import scala.annotation.tailrec
 
-/** A raw stackoverflow posting, either a question or an answer */
+/** A raw stackoverflow posting, either a question or an avjkkkkkkkkknswer */
 case class Posting(postingType: Int, id: Int, acceptedAnswer: Option[Int], parentId: Option[Int], score: Int, tags: Option[String]) extends Serializable
 
 
