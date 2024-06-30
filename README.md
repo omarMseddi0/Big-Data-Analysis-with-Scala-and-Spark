@@ -17,7 +17,8 @@ Recommended background: You should have at least one year programming experience
 
 
 ## Datasets
-Puts these datasets in each project resources folder.
+Puts these datasets in each project resources folder.ok
+
 
 - Week1 [Wikipedia](http://alaska.epfl.ch/~dockermoocs/bigdata/wikipedia.dat)
 - Week2 [StackOverflow](http://alaska.epfl.ch/~dockermoocs/bigdata/stackoverflow.csv)
